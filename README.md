@@ -55,7 +55,7 @@ To run the project locally:
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-org/financial-transactions.git
+git clone https://github.com/SamuelAfriyie/financial-transactions
 
 # Navigate into the project
 cd financial-transactions
